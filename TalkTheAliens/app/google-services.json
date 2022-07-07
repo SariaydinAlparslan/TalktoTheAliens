@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678318392065",
+    "firebase_url": "https://talkthealiens-default-rtdb.firebaseio.com",
+    "project_id": "talkthealiens",
+    "storage_bucket": "talkthealiens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678318392065:android:4a376b6abcd1fdc33b1100",
+        "android_client_info": {
+          "package_name": "com.sariaydinalparslan.talkthealiens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678318392065-dl82cikt9lgv78u48sqd7ek2nqppdl8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFa00V8U5LEkzYrNl8wcm55jJKFy5G5dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678318392065-dl82cikt9lgv78u48sqd7ek2nqppdl8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

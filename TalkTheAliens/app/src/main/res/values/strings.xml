@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Talk The Aliens</string>
+    <string name="title_activity_message_activty">MessageActivty</string>
+    <string name="title_activity_message">MessageActivity</string>
+</resources>
